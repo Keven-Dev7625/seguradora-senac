@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color:rgb(102, 102, 204);
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(171, 203, 250);
+    padding: 1%;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(201, 175, 243);
+    cursor: pointer;
+    width: 10%;
+ }
+
+ button:hover{
+    background-color: rgb(161, 119, 240);
+    }
